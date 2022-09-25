@@ -1,0 +1,15 @@
+C:\Users\Jabed Khan\Desktop\LAB_EXAM_VP2\bin\Debug\net7.0\LAB_EXAM_VP2.exe
+C:\Users\Jabed Khan\Desktop\LAB_EXAM_VP2\bin\Debug\net7.0\LAB_EXAM_VP2.deps.json
+C:\Users\Jabed Khan\Desktop\LAB_EXAM_VP2\bin\Debug\net7.0\LAB_EXAM_VP2.runtimeconfig.json
+C:\Users\Jabed Khan\Desktop\LAB_EXAM_VP2\bin\Debug\net7.0\LAB_EXAM_VP2.dll
+C:\Users\Jabed Khan\Desktop\LAB_EXAM_VP2\bin\Debug\net7.0\LAB_EXAM_VP2.pdb
+C:\Users\Jabed Khan\Desktop\LAB_EXAM_VP2\obj\Debug\net7.0\LAB_EXAM_VP2.csproj.AssemblyReference.cache
+C:\Users\Jabed Khan\Desktop\LAB_EXAM_VP2\obj\Debug\net7.0\LAB_EXAM_VP2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jabed Khan\Desktop\LAB_EXAM_VP2\obj\Debug\net7.0\LAB_EXAM_VP2.AssemblyInfoInputs.cache
+C:\Users\Jabed Khan\Desktop\LAB_EXAM_VP2\obj\Debug\net7.0\LAB_EXAM_VP2.AssemblyInfo.cs
+C:\Users\Jabed Khan\Desktop\LAB_EXAM_VP2\obj\Debug\net7.0\LAB_EXAM_VP2.csproj.CoreCompileInputs.cache
+C:\Users\Jabed Khan\Desktop\LAB_EXAM_VP2\obj\Debug\net7.0\LAB_EXAM_VP2.dll
+C:\Users\Jabed Khan\Desktop\LAB_EXAM_VP2\obj\Debug\net7.0\refint\LAB_EXAM_VP2.dll
+C:\Users\Jabed Khan\Desktop\LAB_EXAM_VP2\obj\Debug\net7.0\LAB_EXAM_VP2.pdb
+C:\Users\Jabed Khan\Desktop\LAB_EXAM_VP2\obj\Debug\net7.0\LAB_EXAM_VP2.genruntimeconfig.cache
+C:\Users\Jabed Khan\Desktop\LAB_EXAM_VP2\obj\Debug\net7.0\ref\LAB_EXAM_VP2.dll
