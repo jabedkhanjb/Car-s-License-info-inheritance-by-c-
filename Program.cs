@@ -15,9 +15,9 @@ class Car
     {
         Console.WriteLine("Car's Wheels : " + noOfWheels);
     }
-    public void CarLicensPlateRegNo (int CarLicensPlateRegNo = 240523625)
+    public void CarLicencePlateRegNo (int CarLicensPlateRegNo = 240523625)
     {
-        Console.WriteLine("Car's License number : " + CarLicensPlateRegNo);
+        Console.WriteLine("Car's Licence number : " + CarLicencePlateRegNo);
     }
 
     public virtual void CarUserName (string CarUserName)
@@ -26,7 +26,7 @@ class Car
     }
     public virtual void CarUserLicenceNo (int CarUserLicenceNo)
     {
-        Console.WriteLine("User's License number : " + CarUserLicenceNo);
+        Console.WriteLine("User's Licence number : " + CarUserLicenceNo);
     }
 
 }
