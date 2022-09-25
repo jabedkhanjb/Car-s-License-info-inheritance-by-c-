@@ -15,7 +15,10 @@ class Car
     {
         Console.WriteLine("Car's Wheels : " + noOfWheels);
     }
-    public int CarLicensPlateRegNo = 240523625;
+    public void CarLicensPlateRegNo (int CarLicensPlateRegNo = 240523625)
+    {
+        Console.WriteLine("Car's License number : " + CarLicensPlateRegNo);
+    }
 
     public virtual void CarUserName (string CarUserName)
     {
@@ -58,15 +61,15 @@ class Program
         Car Father = new Father();
         Father.CarUserName("Mahbub Islam Khan Parvez");
         Father.CarUserLicenceNo(110225315);
-        Console.WriteLine("Car's License number : " + Car.CarLicensPlateRegNo);
+        Father.CarLicensPlateRegNo();
         Father.noOfWheels();
 
         Console.WriteLine("\n");
-        
+
         Car Son = new Son();
         Son.CarUserName("Mahfuz Islam Khan jabed");
         Son.CarUserLicenceNo(560305922);
-        Console.WriteLine("Car's License number : " + Car.CarLicensPlateRegNo);
+        Son.CarLicensPlateRegNo();
         Son.noOfWheels();
 
         
